@@ -2,6 +2,7 @@
 - Tap the Map...
 
 <!---
-moiramob/moiramob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Tap the Map is a simple, convenient and intuitive system for passengers to access underground fare and card balance information.
+
+Tap the Map adds RFID functionality to existing tube station wall maps to allow passengers to ‘Tap the Map’ with Oyster or contactless cards for immediate, real-time fare imformation for their journey.
 --->
